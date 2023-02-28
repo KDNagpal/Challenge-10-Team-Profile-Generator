@@ -1,0 +1,47 @@
+html {
+    background-color: #4E4B5C;
+}
+
+body {
+    color: white;
+}
+
+.meet{
+    font-size: 80px;
+    border-bottom: 3px solid #2D93AD;
+    color: #F3B700;
+    
+}
+
+.engineer {
+    color: #C200FB;
+
+}
+
+.manager {
+    color: #EC0868;
+    text-align: center;
+   
+}
+
+.intern {
+    color: #44FFD1;
+}
+
+.name {
+    font-size: 45px;
+    font-weight: 800;
+    border-bottom: 5px solid #2D93AD;
+}
+
+.title {
+    font-size: 30px;
+    color: white;
+    font-style: italic;
+    font-weight: 400;
+}
+
+p {
+    font-size: 20px;
+    color: white;
+}

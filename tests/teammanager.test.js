@@ -12,7 +12,7 @@ describe("TeamManager",() => {
     describe('getTitle', () => {
         it('should return the engineers title', () => {
             const result = new TeamManager ('Kyle', 12, 'example@gmail.com', 'Username');
-            expect(result.getTitle()).toEqual('Team Manager');
+            expect(result.getTitle()).toEqual('Manager');
         })
     })
 })
